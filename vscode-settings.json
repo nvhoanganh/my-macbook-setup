@@ -1,0 +1,235 @@
+{
+	"git.autofetch": true,
+	"files.exclude": {
+		"**/__pycache__": true,
+		"**/.vscode": true,
+		"**/Archive": true,
+		"**/bin": true,
+		"**/coverage": true,
+		"**/node_modules": true,
+		"**/obj": true
+	},
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": false
+	},
+	"workbench.iconTheme": "material-icon-theme",
+	"sync.gist": "429e7951ec205d30faabfb795fb0f1f1",
+	"sync.quietSync": false,
+	"sync.askGistName": false,
+	"sync.removeExtensions": true,
+	"sync.syncExtensions": true,
+	"sync.autoDownload": false,
+	"sync.autoUpload": false,
+	"sync.forceDownload": false,
+	"terminal.integrated.rendererType": "dom",
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+	"terminal.integrated.shell.osx": "/usr/local/bin/fish",
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"team.showWelcomeMessage": false,
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.minimap.maxColumn": 20,
+	"workbench.panel.defaultLocation": "right",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"workbench.sideBar.location": "right",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"peacock.favoriteColors": [
+		{
+			"name": "Angular Red",
+			"value": "#b52e31"
+		},
+		{
+			"name": "Auth0 Orange",
+			"value": "#eb5424"
+		},
+		{
+			"name": "Azure Blue",
+			"value": "#007fff"
+		},
+		{
+			"name": "C# Purple",
+			"value": "#68217A"
+		},
+		{
+			"name": "Gatsby Purple",
+			"value": "#639"
+		},
+		{
+			"name": "Go Cyan",
+			"value": "#5dc9e2"
+		},
+		{
+			"name": "Java Blue-Gray",
+			"value": "#557c9b"
+		},
+		{
+			"name": "JavaScript Yellow",
+			"value": "#f9e64f"
+		},
+		{
+			"name": "Mandalorian Blue",
+			"value": "#1857a4"
+		},
+		{
+			"name": "Node Green",
+			"value": "#215732"
+		},
+		{
+			"name": "React Blue",
+			"value": "#00b3e6"
+		},
+		{
+			"name": "Something Different",
+			"value": "#832561"
+		},
+		{
+			"name": "Vue Green",
+			"value": "#42b883"
+		}
+	],
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"cloudcode.gke": {
+		"projectIds": ["dockerdemo-227313"]
+	},
+	"cloudcode.default-app-directory": {
+		"location": "C:\\AnthonyNguyenData\\source\\personal\\learn\\python"
+	},
+	"python.jediEnabled": false,
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"python.analysis.diagnosticPublishDelay": 992,
+	"python.pythonPath": "C:\\Users\\anthony\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"metaGo.decoration.fontSize": 18,
+	"metaGo.decoration.width": 14,
+	"metaGo.decoration.height": 19,
+	"editor.renderWhitespace": "none",
+	"workbench.statusBar.visible": true,
+	"workbench.tree.renderIndentGuides": "always",
+	"editor.smoothScrolling": true,
+	"vs-kubernetes": {
+		"vs-kubernetes.kubectl-path": "C:\\Users\\anthony\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+		"vs-kubernetes.minikube-path": "C:\\Users\\anthony\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+		"vs-kubernetes.draft-path": "C:\\Users\\anthony\\.vs-kubernetes\\tools\\draft\\windows-amd64\\draft.exe"
+	},
+	"[yaml]": {
+		"editor.defaultFormatter": "redhat.vscode-yaml"
+	},
+	"files.associations": {
+		"**/azure-pipelines.yml": "azure-pipelines"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"editor.cursorSurroundingLines": 5,
+	"zenMode.fullScreen": false,
+	"zenMode.hideStatusBar": false,
+	"zenMode.hideLineNumbers": false,
+	"yaml.format.printWidth": 140,
+	"importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.type": "newLineEachExpressionAfterCountLimit",
+	"importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 1,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"html.mirrorCursorOnMatchingTag": false,
+	"workbench.editor.limit.perEditorGroup": true,
+	"workbench.editor.limit.value": 3,
+	"workbench.editor.limit.enabled": true,
+	"editor.minimap.enabled": false,
+	"sync.forceUpload": false,
+	"dashboard.projectData": null,
+	"editor.tabSize": 2,
+	"svelte.language-server.runtime": "C:\\Progra~1\\nodejs\\node.exe",
+	"editor.largeFileOptimizations": false,
+	"workbench.editor.centeredLayoutAutoResize": false,
+	"window.titleSeparator": "🎉🎉🎉🎉🎉🎉",
+	"codespaces.accountProvider": "Uninitialized",
+	"workbench.colorTheme": "Operator Mono Dark Theme",
+	"workbench.colorCustomizations": {
+		"tab.activeBackground": "#ffff",
+		"tab.activeForeground": "#000000",
+		"tab.inactiveForeground": "#ffff"
+	},
+	"python.languageServer": "Default",
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"go.formatTool": "gofmt",
+	"hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W10sXCJsaWJyYXJpZXNcIjpcImdlbmVyYWw7Zmxvb3JwbGFuXCIsXCJjdXN0b21MaWJyYXJpZXNcIjpbXCJMLnNjcmF0Y2hwYWRcIl0sXCJwbHVnaW5zXCI6W10sXCJyZWNlbnRDb2xvcnNcIjpbXSxcImZvcm1hdFdpZHRoXCI6MCxcImNyZWF0ZVRhcmdldFwiOmZhbHNlLFwicGFnZUZvcm1hdFwiOntcInhcIjowLFwieVwiOjAsXCJ3aWR0aFwiOjg1MCxcImhlaWdodFwiOjExMDB9LFwic2VhcmNoXCI6dHJ1ZSxcInNob3dTdGFydFNjcmVlblwiOnRydWUsXCJncmlkQ29sb3JcIjpcIiNkMGQwZDBcIixcImRhcmtHcmlkQ29sb3JcIjpcIiM2ZTZlNmVcIixcImF1dG9zYXZlXCI6dHJ1ZSxcInJlc2l6ZUltYWdlc1wiOm51bGwsXCJvcGVuQ291bnRlclwiOjAsXCJ2ZXJzaW9uXCI6MTgsXCJ1bml0XCI6MSxcImlzUnVsZXJPblwiOmZhbHNlLFwidWlcIjpcIlwifSJ9",
+	"azure.resourceFilter": [
+		"d8f0f8db-2041-47f9-bdc5-1158b33e360c/c4923ebc-6537-4824-9274-98f6650ccfb5",
+		"9140829f-7ed8-484b-8047-7f4d98710af1/76d03a17-20be-4175-bbed-ca6d7819c68f"
+	],
+	"editor.formatOnSaveMode": "modifications",
+	"editor.formatOnType": true,
+	"azureResourceManagerTools.parameterFiles": {
+		"d:\\source\\harrythehirer\\src\\beacon\\beacon.streamanalyticjob\\beaconstreamanalytics\\warmpathasa\\build\\warmpathasa.jobtemplate.json": "warmpathasa.jobtemplate.parameters.json",
+		"d:\\source\\verinote\\azure\\devops\\core-app.json": "core-app-parameters.json"
+	},
+	"python.insidersChannel": "weekly",
+	"omnisharp.useEditorFormattingSettings": false,
+	"omnisharp.enableEditorConfigSupport": true,
+	"mssql.connections": [
+		{
+			"server": "{{put-server-name-here}}",
+			"database": "{{put-database-name-here}}",
+			"user": "{{put-username-here}}",
+			"password": "{{put-password-here}}"
+		}
+	],
+	"liveshare.allowGuestDebugControl": true,
+	"liveshare.allowGuestTaskControl": true,
+	"liveshare.languages.allowGuestCommandControl": true,
+	"dotnet-test-explorer.testProjectPath": "*Tests*",
+	"workbench.activityBar.visible": false,
+	"workbench.editor.untitled.hint": "hidden",
+	"editor.fontFamily": "Operator Mono Lig",
+	"editor.fontLigatures": true,
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"editor.suggest.preview": true,
+	"security.workspace.trust.untrustedFiles": "open",
+	"window.closeWhenEmpty": true,
+	"redhat.telemetry.enabled": true,
+	"workbench.editor.showTabs": false,
+	"mermaid.vscode.dark": "neutral",
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter-notebook"
+	},
+	"notebook.cellToolbarLocation": {
+		"default": "right",
+		"jupyter-notebook": "left"
+	},
+	"markdown.preview.breaks": true,
+	"terminal.integrated.tabs.enabled": false,
+	"js/ts.implicitProjectConfig.checkJs": true,
+	"cSpell.enabled": false,
+	"javascript.preferences.quoteStyle": "single",
+	"typescript.preferences.quoteStyle": "single",
+	"prettier.singleQuote": true,
+	"yaml.format.singleQuote": true,
+	"prettier.jsxSingleQuote": true,
+	"importSorter.importStringConfiguration.quoteMark": "double",
+	"editor.wordWrap": "on",
+	"js/ts.implicitProjectConfig.experimentalDecorators": true,
+	"typescript.validate.enable": false,
+	"javascript.validate.enable": false,
+	"window.zoomLevel": 1,
+	"tabnine.experimentalAutoImports": true,
+	"codestream.email": "nvhoanganh1909@gmail.com",
+	"python.defaultInterpreterPath": "C:\\Users\\anthony\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+}
